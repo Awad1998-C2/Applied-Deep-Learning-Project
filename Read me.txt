@@ -1,0 +1,9 @@
+the metric is categorical accuracy 
+The target is 80%
+the reached accuracy is 65% 
+
+The link to all the data/model_weights  is https://drive.google.com/drive/folders/1-5lKzZ8AI8_GmPnJPAxW8ssyt2wY1r75
+
+as they are too big to be loaded on github. 
+
+Only the code is in the github without the data or the weights as they are in the drive

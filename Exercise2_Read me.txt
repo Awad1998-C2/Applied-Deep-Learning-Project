@@ -1,8 +1,0 @@
-the metric is categorical accuracy 
-The target is 80%
-the reached accuracy is 65% 
-
-The link to all the data and to the model is https://drive.google.com/drive/folders/1-5lKzZ8AI8_GmPnJPAxW8ssyt2wY1r75
-
-as they are too big to be loaded on github. 
-
