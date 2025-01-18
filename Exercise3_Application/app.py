@@ -10,8 +10,7 @@ APP_DIR = os.path.dirname(os.path.abspath(__file__))
 # Build the full path to model.weights.h5 in the same folder
 weights_path = os.path.join(APP_DIR, "model.weights.h5")
 
-# Now load weights with the absolute path
-model.load_weights(weights_path)
+
 
 ############################
 # 1) Element list and parser
